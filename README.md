@@ -7,15 +7,15 @@
  
 <div align="center">
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/layer5/meshery-cilium.svg)](https://hub.docker.com/r/layer5/meshery-cilium)
-[![Go Report Card](https://goreportcard.com/badge/github.com/layer5io/meshery-cilium)](https://goreportcard.com/report/github.com/meshery/meshery-cilium)
+[![Docker Pulls](https://img.shields.io/docker/pulls/meshery/meshery-cilium.svg)](https://hub.docker.com/r/meshery/meshery-cilium)
+[![Go Report Card](https://goreportcard.com/badge/github.com/meshery/meshery-cilium)](https://goreportcard.com/report/github.com/meshery/meshery-cilium)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/meshery/meshery-cilium/multi-platform.yml?branch=master)](https://github.com/meshery/meshery-cilium/actions)
-[![GitHub](https://img.shields.io/github/license/layer5io/meshery-istio.svg)](LICENSE)
-[![GitHub issues by-label](https://img.shields.io/github/issues/layer5io/meshery-cilium/help%20wanted.svg)](https://github.com/meshery/meshery-cilium/issues?q=is%3Aopen+is%3Aissue+label%3A"help+wanted")
-[![Website](https://img.shields.io/website/https/layer5.io/meshery.svg)](https://meshery.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/layer5.svg?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=mesheryio)
-[![Discuss Users](https://img.shields.io/discourse/users?server=https%3A%2F%2Fdiscuss.layer5.io)](https://meshery.io/community#discussion-forums)
-[![Slack](https://img.shields.io/badge/Slack-@layer5.svg?logo=slack)](http://slack.meshery.io)
+[![GitHub](https://img.shields.io/github/license/meshery/meshery-istio.svg)](LICENSE)
+[![GitHub issues by-label](https://img.shields.io/github/issues/meshery/meshery-cilium/help%20wanted.svg)](https://github.com/meshery/meshery-cilium/issues?q=is%3Aopen+is%3Aissue+label%3A"help+wanted")
+[![Website](https://img.shields.io/website/https/meshery.io/meshery.svg)](https://meshery.io)
+[![Twitter Follow](https://img.shields.io/twitter/follow/meshery.svg?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=mesheryio)
+[![Discuss Users](https://img.shields.io/discourse/users?server=https%3A%2F%2Fdiscuss.meshery.io)](https://meshery.io/community#discussion-forums)
+[![Slack](https://img.shields.io/badge/Slack-@meshery.svg?logo=slack)](http://slack.meshery.io)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3564/badge)](https://bestpractices.coreinfrastructure.org/projects/3564)
 
 </div>
@@ -48,7 +48,7 @@ A self-service engineering platform, <a href="https://meshery.io">Meshery</a>, i
 Our projects are community-built and welcome collaboration. 👍 Be sure to see the <a href="https://docs.meshery.io/project/contributing#not-sure-where-to-start">Contributor Welcome Guide</a> and jump into our <a href="http://slack.meshery.io">Slack</a>!
 
 <p style="clear:both;">
-<a href="https://meshery.io/community"><img alt="MeshMates" src=".github\readme\images\Layer5-MeshMentors-1.png" style="margin-right:10px; margin-bottom:15px;" width="28%" align="left"/></a>
+<a href="https://meshery.io/community"><img alt="MeshMates" src=".github\readme\images\meshery-MeshMentors-1.png" style="margin-right:10px; margin-bottom:15px;" width="28%" align="left"/></a>
 <h3>Find your MeshMate</h3>
 
 <p>MeshMates are experienced community members, who will help you learn your way around, discover live projects and expand your community network. 
@@ -75,12 +75,12 @@ Find out more on the <a href="https://meshery.io/community">Meshery community</a
 <p>
 ✔️ <em><strong>Join</strong></em> any or all of the weekly meetings on <a href="https://meshery.io/calendar">community calendar</a>.<br />
 ✔️ <em><strong>Watch</strong></em> community <a href="https://www.youtube.com/@mesheryio?sub_confirmation=1">meeting recordings</a>.<br />
-✔️ <em><strong>Fill-in</strong></em> a <a href="https://layer5.io/newcomers">community member form</a> to gain access to community resources.<br />
+✔️ <em><strong>Fill-in</strong></em> a <a href="https://meshery.io/newcomers">community member form</a> to gain access to community resources.<br />
 ✔️ <em><strong>Discuss</strong></em> in the <a href="https://meshery.io/community#discussion-forums">Community Forum</a>.<br />
 ✔️ <em><strong>Explore more</strong></em> in the <a href="https://meshery.io/community#handbook">Community Handbook</a>.<br />
 </p>
 <p align="center">
-<i>Not sure where to start?</i> Grab an open issue with the <a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Alayer5io+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+label%3A%22help+wanted%22+">help-wanted label</a>.</p>
+<i>Not sure where to start?</i> Grab an open issue with the <a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Ameshery+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+label%3A%22help+wanted%22+">help-wanted label</a>.</p>
 
 **License**
 
