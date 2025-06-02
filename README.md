@@ -48,7 +48,7 @@ A self-service engineering platform, <a href="https://meshery.io">Meshery</a>, i
 Our projects are community-built and welcome collaboration. 👍 Be sure to see the <a href="https://docs.meshery.io/project/contributing#not-sure-where-to-start">Contributor Welcome Guide</a> and jump into our <a href="http://slack.meshery.io">Slack</a>!
 
 <p style="clear:both;">
-<a href="https://meshery.io/community"><img alt="MeshMates" src=".github\readme\images\meshery-MeshMentors-1.png" style="margin-right:10px; margin-bottom:15px;" width="28%" align="left"/></a>
+<a href="https://meshery.io/community"><img alt="MeshMates" src="https://meshery.io/assets/images/logos/meshmate-dark.svg" style="margin-right:10px; margin-bottom:15px;" width="28%" align="left"/></a>
 <h3>Find your MeshMate</h3>
 
 <p>MeshMates are experienced community members, who will help you learn your way around, discover live projects and expand your community network. 
