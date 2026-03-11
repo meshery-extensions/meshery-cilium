@@ -85,8 +85,8 @@ jobs:
         run: |
           pretty=$(jq . data.json)
           rm data.json
-          mkdir -p ./docs/_compatibility/meshery-cilium
-          cd ./docs/_compatibility/meshery-cilium
+          mkdir -p ./docs/content/en/project/compatibility/meshery-cilium
+          cd ./docs/content/en/project/compatibility/meshery-cilium
           touch data.json
           echo $pretty > data.json
           cat data.json
