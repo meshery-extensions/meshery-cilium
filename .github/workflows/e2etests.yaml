@@ -77,6 +77,7 @@ jobs:
         with:
           repository: meshery/meshery 
           token: ${{ secrets.GH_ACCESS_TOKEN }}   
+          ref: master
       - name: DownloadJSON
         uses: actions/download-artifact@v2
         with:
