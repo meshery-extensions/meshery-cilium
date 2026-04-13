@@ -1,4 +1,8 @@
 linters-settings:
+  staticcheck:
+    checks: ["all", "-ST1005"]
+  depguard:
+    list-type: blacklist
   depguard:
     list-type: blacklist
     packages:
